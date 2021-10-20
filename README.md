@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @deanboonzaier
 - 👀 I’m interested in contributing to the Open Source community
-- 🌱 I’m currently learning Golang, AWS
+- 🌱 I’m currently learning Golang, AWS. And relearning that _one does not simply scale a company/team_
